@@ -1,4 +1,4 @@
-# MTSS
+# MTSS: https://github.com/NishathAnjum/MTSS/blob/main/README.md
 Chandy Misra Haas Algorithm for Deadlock  detection: OR Model
 Write the code and compile/run using following URL :https://www.onlinegdb.com/online_c++_compiler
 
